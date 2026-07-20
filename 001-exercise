@@ -1,0 +1,6 @@
+# Masala:  #A0001
+
+A = int(input("A sonni kiriting: "))
+B = int(input("B sonni kiriting: "))
+
+print(A+B)
