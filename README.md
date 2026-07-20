@@ -35,5 +35,4 @@ Ushbu yechimlarda quyidagi mavzular qamrab olingan:
 - Ma'lumotlar tuzilmalari
 
 ## Dasturlash tili
-
 - Python 3
