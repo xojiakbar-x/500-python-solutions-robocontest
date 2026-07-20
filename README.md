@@ -37,5 +37,3 @@ Ushbu yechimlarda quyidagi mavzular qamrab olingan:
 ## Dasturlash tili
 
 - Python 3
-
-## Repozitoriy tuzilishi
