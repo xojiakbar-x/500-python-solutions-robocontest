@@ -1,0 +1,10 @@
+#Masala #A0003
+
+a = list(map(int, input().split()))
+
+jami = sum(a)
+
+max = jami-max(a)
+min = jami-min(a)
+
+print(max, min)
