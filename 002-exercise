@@ -1,0 +1,11 @@
+#Masala #A0002
+
+yil = int(input())
+
+if (yil % 400 == 0) or (yil % 4 == 0 and yil % 100 != 0):
+    kun = "12"
+else:
+    kun = "13"
+
+print(f"{kun:03d}/09/{yil:04d}")
+print(f"{kun}/09/{yil:04d}")
