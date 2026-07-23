@@ -1,0 +1,9 @@
+#Masala #A0004
+
+N = int(input("N Sovg'a narxini kiriting: "))
+a, b, c = list(map(int, input("abc summani kiriting: ").split()))
+if a + b + c >= N:
+    print("Yes")
+else:
+    print("No")
+
