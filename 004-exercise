@@ -1,9 +1,12 @@
 #Masala #A0004
 
-N = int(input("N Sovg'a narxini kiriting: "))
-a, b, c = list(map(int, input("abc summani kiriting: ").split()))
-if a + b + c >= N:
-    print("Yes")
-else:
-    print("No")
+n = int(input())
+a = list(map(int, input().split()))
+
+natija = 0
+
+for son in a:
+    natija ^= son
+
+print(natija)
 
